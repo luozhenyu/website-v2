@@ -25,13 +25,13 @@ icon:check[] - Supported, icon:docker[] - Docker image available, icon:times[] -
 | Windows 8.1| icon:check[] | icon:check[] | icon:check[] | icon:check[]
 
 5+h| Linux (x64) ["data-bs-toggle="tooltip"data-bs-placement="right"title="Linux (x64) builds should work on any distribution with glibc version 2.12 or higher."]#^[1]^#
-| SUSE Linux Enterprise Server (SLES) 12 | icon:check[] | icon:check[] | icon:check[] | icon:check[]
+| Alpine Linux 3.5 or later (Headless) | icon:check[] icon:docker[] | icon:check[] icon:docker[] | icon:check[] icon:docker[] | icon:check[] icon:docker[]
 | RHEL / Rocky 8.x | icon:check[] | icon:check[] | icon:check[] | icon:check[]
 | RHEL / CentOS 7.x | icon:check[] icon:docker[] | icon:check[] icon:docker[] | icon:check[] icon:docker[] | icon:check[] icon:docker[]
+| SUSE Linux Enterprise Server (SLES) 12 | icon:check[] | icon:check[] | icon:check[] | icon:check[]
 | Ubuntu 22.04 | icon:check[] icon:docker[] | icon:check[] icon:docker[] | icon:check[] icon:docker[] | icon:check[] icon:docker[]
 | Ubuntu 20.04 | icon:check[] icon:docker[] | icon:check[] icon:docker[] | icon:check[] icon:docker[] | icon:check[] icon:docker[]
 | Ubuntu 18.04 | icon:check[] | icon:check[] | icon:check[] | icon:check[]
-| Alpine Linux 3.5 or later (Headless) | icon:check[] icon:docker[] | icon:check[] icon:docker[] | icon:check[] icon:docker[] | icon:check[] icon:docker[]
 
 5+h| Linux (ARM 64-bit) ["data-bs-toggle="tooltip"data-bs-placement="right"title="Linux (ARM 64-bit) builds should work on any distribution with glibc version 2.17 or higher."]#^[2]^#
 | RHEL / Rocky 8.x | icon:check[] | icon:check[] | icon:check[] | icon:check[]
